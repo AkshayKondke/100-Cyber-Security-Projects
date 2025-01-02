@@ -38,4 +38,4 @@ try :
     print(f"Generated password : {password}")
 
 except ValueError as e :
-    print(f"Error: {e}")
+    print(f"Error: {e}")    
