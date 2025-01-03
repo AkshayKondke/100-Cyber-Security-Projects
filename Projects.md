@@ -3,8 +3,8 @@ That's an awesome challenge! Here's a **100-project list** tailored to cybersecu
 ---
 
 ### **Week 1-2: Python Basics and Scripting**  
-✅ 1. Build a password generator.  (Done)
-✅ 2. Create a Caesar cipher encryptor/decryptor.  (Done)
+1. Build a password generator. ✅✅ 
+2. Create a Caesar cipher encryptor/decryptor.  ✅✅
 3. Develop a script to find and remove duplicate files in a folder.  
 4. Automate file renaming for a directory.  
 5. Write a script to scrape basic data from a website.  
