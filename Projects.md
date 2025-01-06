@@ -8,7 +8,7 @@ Welcome to my **100-Day Python Challenge**, where I aim to complete 100 projects
 1. Password Generator. ✅✅
 2. Caesar Cipher Encryptor/Decryptor. ✅✅
 3. Unit Converter (Length, Weight, Temperature). ✅✅
-4. File Organizer Script (Automate folder organization).
+4. File Organizer Script (Automate folder organization). ✅✅
 5. Basic Calculator App (Math operations for scripting).
 
 ---
