@@ -10,12 +10,12 @@ Welcome to my **100-Day Python Challenge**, where I aim to complete 100 projects
 3. Unit Converter (Length, Weight, Temperature). ✅✅
 4. File Organizer Script (Automate folder organization). ✅✅
 5. Basic Port Scanner with NMAP.  ✅✅
-
+6. Hashing Tool (MD5, SHA256). ✅✅
 ---
 
 ## Week 2: Cybersecurity Basics (Tools and Networking)
 6. Simple Port Scanner (Basic network reconnaissance).
-7. Hashing Tool (MD5, SHA256).
+7. 
 8. Ping Sweeper (ICMP-based network discovery).
 9. DNS Lookup Tool (Understanding domains).
 10. Email Header Analyzer (Identify spoofing attempts).
