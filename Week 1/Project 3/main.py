@@ -44,18 +44,21 @@ def convert_temp(value, from_unit, to_unit):
     
 
 def main() :
-    print("Welcome to the Unit Converter! ")
+    print("--------------------Welcome to the Unit Converter!--------------------- ")
+    print("\n")
 
 
     choice = input("Choose type of conversion (Lenght, Weight, Temperature): ").lower()
+    print("\n")
 
     if choice == "length":
-        print("lenght")
+        # print("lenght")
         value = float(input("Enter the value: "))
         from_unit = input("Enter the from unit (meter, kilometer, centimeter) : ").lower()
         to_unit = input("Enter the to unit (meter, kilometer, centimeter) : ").lower()
         result = convert_len(value, from_unit, to_unit)
         print(f"{value} {from_unit}, from unit is equal to {result} {to_unit}")
+        print(f"------------{int(value)} {from_unit} = {result} {to_unit}")
     
     elif choice == "weight":
         print("weight")
