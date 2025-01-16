@@ -15,8 +15,8 @@ Welcome to my **100-Day Python Challenge**, where I aim to complete 100 projects
 
 ## Week 2: Cybersecurity Basics (Tools and Networking)
 6. Simple Port Scanner (Basic network reconnaissance).
-7. 
-8. Ping Sweeper (ICMP-based network discovery).
+7. WHOIS Information Gathering Tool
+8. Random Name Generator (Helpful for anonymization).
 9. DNS Lookup Tool (Understanding domains).
 10. Email Header Analyzer (Identify spoofing attempts).
 
@@ -25,7 +25,7 @@ Welcome to my **100-Day Python Challenge**, where I aim to complete 100 projects
 ## Week 3: Web and Networking (Python for Network and Web)
 11. Basic Web Scraper (e.g., extracting data from a website).
 12. Script to Fetch WHOIS Information for a Domain.
-13. Random Name Generator (Helpful for anonymization).
+13. 
 14. Open Redirect Detector (Web application vulnerability).
 15. Simple Blog Generator (Static HTML).
 
