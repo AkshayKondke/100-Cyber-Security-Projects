@@ -28,7 +28,7 @@ No additional libraries are required as the script uses only built-in Python mod
 2. ▶️ Run the script using Python:
 
    ```bash
-   python port_scanner.py
+   python main.py
    ```
 
 3. 🖥️ Enter the following inputs when prompted:
