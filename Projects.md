@@ -17,7 +17,7 @@ Welcome to my **100-Day Python Challenge**, where I aim to complete 100 projects
 6. Simple Port Scanner (Basic network reconnaissance).
 7. WHOIS Information Gathering Tool
 8. Random Name Generator (Helpful for anonymization).
-9. DNS Lookup Tool (Understanding domains).
+9. Port Scanner Tool.
 10. Email Header Analyzer (Identify spoofing attempts).
 
 ---
