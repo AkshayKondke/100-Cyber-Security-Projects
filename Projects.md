@@ -18,7 +18,7 @@ Welcome to my **100-Day Python Challenge**, where I aim to complete 100 projects
 7. WHOIS Information Gathering Tool
 8. Random Name Generator (Helpful for anonymization).
 9. Port Scanner Tool.
-10. Email Header Analyzer (Identify spoofing attempts).
+10. Simple QR Code Generator (Generate useful/testing payloads).
 
 ---
 
@@ -33,7 +33,7 @@ Welcome to my **100-Day Python Challenge**, where I aim to complete 100 projects
 
 ## Week 4: Automation and Utilities for General and Cybersecurity Use
 16. To-Do List CLI App (Track tasks effectively).
-17. Simple QR Code Generator (Generate useful/testing payloads).
+17. 
 18. Weather App Using OpenWeather API (API interactions).
 19. File Encryptor (AES) (File security basics).
 20. Automated Email Sender with Attachments.
