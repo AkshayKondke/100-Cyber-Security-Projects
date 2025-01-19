@@ -14,11 +14,11 @@ Welcome to my **100-Day Python Challenge**, where I aim to complete 100 projects
 ---
 
 ## Week 2: Cybersecurity Basics (Tools and Networking)
-6. Simple Port Scanner (Basic network reconnaissance).
-7. WHOIS Information Gathering Tool
-8. Random Name Generator (Helpful for anonymization).
-9. Port Scanner Tool.
-10. Simple QR Code Generator (Generate useful/testing payloads).
+6. Simple Port Scanner (Basic network reconnaissance). ✅✅
+7. WHOIS Information Gathering Tool. ✅✅
+8. Random Name Generator (Helpful for anonymization). ✅✅
+9. Port Scanner Tool. ✅✅
+10. Simple QR Code Generator (Generate useful/testing payloads). ✅✅
 
 ---
 
