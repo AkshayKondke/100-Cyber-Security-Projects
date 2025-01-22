@@ -20,6 +20,7 @@ Welcome to my **100-Day Python Challenge**, where I aim to complete 100 projects
 9. Port Scanner Tool. ✅✅
 10. Simple QR Code Generator (Generate useful/testing payloads). ✅✅
 11. File Encryptor (AES) (File security basics). ✅✅
+12. MAC Address Changer. ✅✅
 ---
 
 ## Week 3: Web and Networking (Python for Network and Web)
