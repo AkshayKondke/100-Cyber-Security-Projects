@@ -24,7 +24,7 @@ Welcome to my **100-Day Python Challenge**, where I aim to complete 100 projects
 ---
 
 ## Week 3: Web and Networking (Python for Network and Web)
-11. Basic Web Scraper (e.g., extracting data from a website).
+13. Website Availability Checker. ✅✅
 12. Script to Fetch WHOIS Information for a Domain.
 13. 
 14. Open Redirect Detector (Web application vulnerability).
