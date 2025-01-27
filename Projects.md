@@ -26,7 +26,7 @@ Welcome to my **100-Day Python Challenge**, where I aim to complete 100 projects
 ## Week 3: Web and Networking (Python for Network and Web)
 13. Website Availability Checker. ✅✅
 14. Wi-Fi Network Scanning. ✅✅
-13. 
+15. Base64 Decoder Script. ✅✅ 
 14. Open Redirect Detector (Web application vulnerability).
 15. Simple Blog Generator (Static HTML).
 
@@ -73,7 +73,7 @@ Welcome to my **100-Day Python Challenge**, where I aim to complete 100 projects
 37. File Integrity Monitoring Tool (Detect unauthorized changes).
 38. Build a Tool to Extract Metadata from Files.
 39. Detect Hidden Files in a Directory.
-40. Base64 Decoder Script.
+40. 
 
 ---
 
