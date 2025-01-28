@@ -27,14 +27,14 @@ Welcome to my **100-Day Python Challenge**, where I aim to complete 100 projects
 13. Website Availability Checker. ✅✅
 14. Wi-Fi Network Scanning. ✅✅
 15. Base64 Decoder Script. ✅✅ 
-14. Open Redirect Detector (Web application vulnerability).
+16. Password Strength Checker. ✅✅
 15. Simple Blog Generator (Static HTML).
 
 ---
 
 ## Week 4: Automation and Utilities for General and Cybersecurity Use
 16. To-Do List CLI App (Track tasks effectively).
-17. 
+17. Open Redirect Detector (Web application vulnerability).
 18. Weather App Using  API (API interactions).
 19. 
 20. Automated Email Sender with Attachments.
