@@ -23,6 +23,7 @@ Understanding networking is essential for building a robust firewall. Here are t
 - **Packet Structure** 📦✉️  
   - **Headers & Payloads**: Understand how data is encapsulated in packets, including important header information like IP addresses, port numbers, and protocol types.
 
+
 ---
 
 ## 2. Firewall and Security Concepts 🔒🛡️
