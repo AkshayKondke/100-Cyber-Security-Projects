@@ -12,7 +12,7 @@ UPPERCASE = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 DIGITS = "0123456789"
 SPECIAL_CHARACTERS = "!@#$%^&*()-_=+[]{}|;:'\",.<>?/"
 
-ALL_CHARACTERS = LOWERCASE + UPPERCASE + DIGITS+ SPECIAL_CHARACTERS
+ALL_CHARACTERS = LOWERCASE + UPPERCASE + DIGITS + SPECIAL_CHARACTERS
 
 
 def calculate_entropy(password):
@@ -46,7 +46,7 @@ def check_common_patterns(password):
     if password.lower() in common_passwords:
         return "Password is too common. Avoid using predictable passwords like '123456' or 'password'."
     
-    if re.search(r"\d{4,}", password):
+    if re.search(r"\d{4,}", password):  
         return "Avoid long sequences of numbers"
     
     return None
