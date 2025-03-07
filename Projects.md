@@ -28,22 +28,22 @@ Welcome to my **100-Day Python Challenge**, where I aim to complete 100 projects
 14. Wi-Fi Network Scanning. ✅✅
 15. Base64 Decoder Script. ✅✅ 
 16. Password Strength Checker. ✅✅
-15. Simple Blog Generator (Static HTML).
-
+17. Automate Vulnerability Scanning with Nmap. ✅✅
+18. PBKDF2 Password Cracker. ✅✅
 ---
 
 ## Week 4: Automation and Utilities for General and Cybersecurity Use
 16. To-Do List CLI App (Track tasks effectively).
 17. Open Redirect Detector (Web application vulnerability).
 18. Weather App Using  API (API interactions).
-19. 
+19. Simple Blog Generator (Static HTML).
 20. Automated Email Sender with Attachments.
 
 ---
 
 ## Week 5: Cybersecurity Fundamentals and Tools
 21. Subnet Calculator (Understand network divisions).
-22. Automate Vulnerability Scanning with Nmap.
+22. 
 23. Simple Firewall Using Python (Traffic filtering).
 24. Brute Force ZIP File Passwords (Understand brute-forcing).
 25. Script to Analyze Logs for Security Issues.
