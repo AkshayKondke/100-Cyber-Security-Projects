@@ -33,7 +33,7 @@ Welcome to my **100-Day Python Challenge**, where I aim to complete 100 projects
 ---
 
 ## Week 4: Automation and Utilities for General and Cybersecurity Use
-16. To-Do List CLI App (Track tasks effectively).
+16. To-Do List CLI App (Track tasks effectively). ✅✅
 17. Open Redirect Detector (Web application vulnerability).
 18. Weather App Using  API (API interactions).
 19. Simple Blog Generator (Static HTML).
