@@ -14,7 +14,7 @@ def load_tasks():
 
 # Save tasks to file
 def save_tasks(tasks):
-    with open(TASKS_FILE, "w") as file:
+    with open(TASKS_FILE, "w")  as file:
         json.dump(tasks, file, indent=4)
 
 # Add a task
@@ -62,6 +62,7 @@ def delete_task(task_id):
     tasks = load_tasks()
     updated_tasks = [task for task in tasks if task["id"] != task_id]
     if len(tasks) == len(updated_tasks):
+        
         print("❌ Task not found.")
     else:
         save_tasks(updated_tasks)
